@@ -10,10 +10,6 @@ const defaultMeta = pwaSchema => [
     content: 'all',
   },
   {
-    name: 'author',
-    content: 'Atyantik Technologies Private Limited',
-  },
-  {
     httpEquiv: 'x-ua-compatible',
     content: 'ie=edge',
   },
